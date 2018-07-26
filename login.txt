@@ -1,6 +1,11 @@
 func login(username: String, password: String){
-	
-	//Comment out these lines. It should be return false instead
-	//return true; 
-	return false;
+	if(username is not empty){
+		return true;
+	}else {
+		return false;
+	} 
+}
+
+func checkEmpty(str: String){
+	return true;
 }
