@@ -7,5 +7,5 @@ func login(username: String, password: String){
 }
 
 func checkEmpty(str: String){
-	return true;
+	return false;
 }
