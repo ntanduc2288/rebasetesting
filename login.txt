@@ -13,3 +13,6 @@ func checkEmpty(str: String){
 	//Should return appropricate data
 	return true;
 }
+
+func testValidation(){
+}
