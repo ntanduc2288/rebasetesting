@@ -1,1 +1,3 @@
 This is a third file from master
+
+This line is from feature 2: hot fix
