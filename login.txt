@@ -1,0 +1,15 @@
+func login(username: String, password: String){
+	if(username is not empty){
+		return true;
+	}else {
+		return false;
+	} 
+}
+
+func checkEmpty(str: String){
+	int i = 10;
+	int j = 20;
+  int k = 30; //From Feature1
+//This comment is from AND-103
+	return true;
+}
