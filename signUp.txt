@@ -1,0 +1,3 @@
+func signup(password){
+	return true;
+}
