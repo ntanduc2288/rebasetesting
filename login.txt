@@ -11,5 +11,5 @@ func checkEmpty(str: String){
 	int j = 20;
 	
 	return false;
-n
+
 }
