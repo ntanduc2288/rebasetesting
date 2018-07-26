@@ -9,5 +9,7 @@ func login(username: String, password: String){
 func checkEmpty(str: String){
 	int i = 10;
 	int j = 20;
+	int k = 30;
+	//Should return appropricate data
 	return true;
 }
